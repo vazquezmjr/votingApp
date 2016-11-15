@@ -1,0 +1,1 @@
+This is the draft of our VotingApp Proyect
