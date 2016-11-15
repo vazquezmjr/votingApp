@@ -1,0 +1,22 @@
+{
+  "name": "votingapp",
+  "version": "1.0.0",
+  "description": "Voting App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vazquezmjr/votingApp.git"
+  },
+  "author": "Arkus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vazquezmjr/votingApp/issues"
+  },
+  "homepage": "https://github.com/vazquezmjr/votingApp#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
