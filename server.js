@@ -1,7 +1,7 @@
 var express = require('express');
 var app = express();
 var mongojs = require('mongojs');
-var db = mongojs('contactlist', ['contactlist']);
+var db = mongojs('admin:root@ds153667.mlab.com:53667/mean-database', ['contactlist']);
 var bodyparser = require('body-parser');
 
 
